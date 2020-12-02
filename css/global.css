@@ -359,7 +359,7 @@ pre {
 :root {
   --accent-color: #ed5f74;
   --headline-color: var(--accent-color);
-  --logo-image: ~/imgs/clab_logo.png;
+  --logo-image: url('imgs/clab_logo.png');
 }
 
 .pasha-image-stack {
